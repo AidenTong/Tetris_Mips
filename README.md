@@ -1,6 +1,8 @@
 # Tetris_Mips
 HKUST comp2611 Computer Organisation Programming Assignment
 
+!!! You must download the Mars Simulator provided here to run the Mips code to play the game. Other simulator may not be compatible with it.
+
 1 Introduction
 In this project, you will use MIPS assembly program to implement a (modified and
 simpler) Tetris Game.
