@@ -14,3 +14,7 @@ by moving differently shaped pieces, called “tetrominoes”, which descend ont
 playing field. (In what follows, we call “tetrominoes” as “blocks”.) The completed spaces. The game ends when the uncleared lines reach the top of the playing field. The
 longer the player can delay this outcome, the higher their score will be.
 In this project, we implement a simpler version of Tetris.
+
+
+Flowchat
+![flowchat](https://user-images.githubusercontent.com/101878003/225032915-fa3383f9-c0d8-4e14-b3a6-47e1b012c890.png)
