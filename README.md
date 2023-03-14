@@ -4,6 +4,7 @@ HKUST comp2611 Computer Organisation Programming Assignment
 !!! You must download the Mars Simulator provided here to run the Mips code to play the game. Other simulator may not be compatible with it.
 
 1 Introduction
+
 In this project, you will use MIPS assembly program to implement a (modified and
 simpler) Tetris Game.
 Tetris is a puzzle video game created by Soviet software engineer Alexey Pajitnov in
@@ -19,4 +20,6 @@ In this project, we implement a simpler version of Tetris.
 
 
 Flowchat
+
+
 ![flowchat](https://user-images.githubusercontent.com/101878003/225032915-fa3383f9-c0d8-4e14-b3a6-47e1b012c890.png)
